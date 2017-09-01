@@ -1,2 +1,2 @@
-# rudeboybert
-New webpage
+# StatFellows
+Amherst College StatFellows Homepage

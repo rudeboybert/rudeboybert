@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Albert Y. Kim</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Albert Y. Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Albert Y. Kim</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Causal Teamwork: Regression and Matching as Supplements in the Estimation of Causal Effects</title>
+      <link>/publication/regression-matching/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/regression-matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The `fivethirtyeight` R Package: &#39;Tame Data&#39; Principles for Introductory Statistics and Data Science Courses</title>
+      <link>/publication/fivethirtyeight/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fivethirtyeight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Method for Cluster Detection with Application to Brain and Breast Cancer in Puget Sound</title>
+      <link>/publication/bayes-cluster-epidemiology/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bayes-cluster-epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OkCupid Data for Introductory Statistics and Data Science Courses</title>
+      <link>/publication/okcupiddata/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/okcupiddata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian model for cluster detection</title>
+      <link>/publication/bayes-cluster-biostatistics/</link>
+      <pubDate>Sat, 13 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bayes-cluster-biostatistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using labeled data to evaluate change detectors in a multivariate streaming environment</title>
+      <link>/publication/change_point_detection/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/change_point_detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

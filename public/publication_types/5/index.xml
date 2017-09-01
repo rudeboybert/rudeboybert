@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Albert Y. Kim</title>
+    <link>/publication_types/5/</link>
+    <description>Recent content in 5 on Albert Y. Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Albert Y. Kim</copyright>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/5/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The `fivethirtyeight` R Package: &#39;Tame Data&#39; Principles for Introductory Statistics and Data Science Courses</title>
+      <link>/publication/fivethirtyeight/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fivethirtyeight/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

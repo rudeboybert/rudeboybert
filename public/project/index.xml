@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Albert Y. Kim</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Albert Y. Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Albert Y. Kim</copyright>
+    <lastBuildDate>Thu, 31 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ModernDive</title>
+      <link>/project/moderndive/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/moderndive/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://moderndive.com/&#34; target=&#34;_blank&#34;&gt;http://moderndive.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fivethirtyeight</title>
+      <link>/project/fivethirtyeight/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/fivethirtyeight/</guid>
+      <description>&lt;p&gt;Note that while we received guidance from editors at &amp;lsquo;FiveThirtyEight&amp;rsquo;, this package is not officially published by &amp;lsquo;FiveThirtyEight&amp;rsquo;. More info &lt;a href=&#34;https://rudeboybert.github.io/fivethirtyeight/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;On &lt;a href=&#34;https://cran.r-project.org/web/packages/fivethirtyeight/index.html&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;On &lt;a href=&#34;https://github.com/rudeboybert/fivethirtyeight&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>resampledata</title>
+      <link>/project/resample/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/resample/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;On &lt;a href=&#34;https://cran.r-project.org/web/packages/resampledata/index.html&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;On &lt;a href=&#34;https://github.com/rudeboybert/resampledata&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
