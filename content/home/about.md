@@ -13,8 +13,8 @@ weight = 1
 [interests]
   interests = [
     "Forest Ecology",
-    "Spatial Epidemiology",
-    "Statistics and Data Science Pedagogy"
+    "Statistics, Data Science, and Machine Learning Pedagogy",
+    "Spatial Epidemiology"
   ]
 
 # List your qualifications (such as academic degrees).
