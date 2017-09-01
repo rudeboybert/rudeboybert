@@ -1,7 +1,14 @@
+_site
+.sass-cache
 .Rproj.user
-.Rhistory
+*.Rproj
+*.Rhistory
 .RData
-.Ruserdata
+.Rhistory
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.DS_Store
 blogdown
-.DS_Store # if a windows user, Thumbs.db instead
 public/ # if using Netlify
