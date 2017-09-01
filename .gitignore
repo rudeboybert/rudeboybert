@@ -1,7 +1,6 @@
 _site
 .sass-cache
 .Rproj.user
-*.Rproj
 *.Rhistory
 .RData
 .Rhistory

@@ -29,6 +29,18 @@
     </item>
     
     <item>
+      <title>Forest Ecology</title>
+      <link>/project/forest-ecology/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/forest-ecology/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;[]()&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ModernDive</title>
       <link>/project/moderndive/</link>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
@@ -151,15 +163,6 @@
       <guid>/talk/2015-08-06-jsm/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>OkCupid Data for Introductory Statistics and Data Science Courses</title>
-      <link>/publication/okcupiddata/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/okcupiddata/</guid>
-      <description></description>
     </item>
     
   </channel>

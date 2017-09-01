@@ -26,16 +26,16 @@ view = 1
   tag = "*"
   
 [[filter]]
+  name = "Forest Ecology"
+  tag = ".forest-ecology"
+
+[[filter]]
   name = "ModernDive"
   tag = ".ModernDive"
 
 [[filter]]
   name = "R Packages"
   tag = ".r-packages"
-
-[[filter]]
-  name = "Forest Ecology"
-  tag = ".forest-ecology"
   
 +++
 
