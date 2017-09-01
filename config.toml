@@ -1,4 +1,4 @@
-baseurl = "http://rudeboybert.netlify.com/"  # End your URL with a `/` trailing slash. baseurl = "/"
+baseurl = "http://rudeboybert.rbind.io/"  # End your URL with a `/` trailing slash. baseurl = "/"
 title = "Albert Y. Kim"
 copyright = "&copy; 2017 Albert Y. Kim"
 theme = "hugo-academic"
@@ -142,11 +142,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/rudeboybert"
-    
+
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/albertykim/"    
+    link = "https://www.linkedin.com/in/albertykim/"
 
   [[params.social]]
     icon = "researchgate"
