@@ -1,4 +1,4 @@
-baseurl = "https://rudeboybert.rbind.io/"  # End your URL with a `/` trailing slash. baseurl = "/"
+baseurl = "http://rudeboybert.netlify.com/"  # End your URL with a `/` trailing slash. baseurl = "/"
 title = "Albert Y. Kim"
 copyright = "&copy; 2017 Albert Y. Kim"
 theme = "hugo-academic"
