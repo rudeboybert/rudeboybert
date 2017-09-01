@@ -23,7 +23,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   name = "Albert Y. Kim"
-  role = "Lecturer of Statistics"
+  role = "Data Scientist and Statistician"
   organization = "Amherst College"
   organization_url = "https://www.amherst.edu/academiclife/departments/mathematics-statistics/"
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
