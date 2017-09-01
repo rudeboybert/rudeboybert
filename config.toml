@@ -166,13 +166,13 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "Projects"
+  url = "#projects"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Teaching"
+  url = "#teaching"
   weight = 4
 
 [[menu.main]]

@@ -10,7 +10,7 @@ subtitle = ""
 widget = "projects"
 
 # Order that this section will appear in.
-weight = 4
+weight = 3
 
 # View.
 # Customize how projects are displayed.
@@ -30,12 +30,12 @@ view = 1
   tag = ".ModernDive"
 
 [[filter]]
-  name = "fivethirtyeight"
-  tag = ".fivethirtyeight"
+  name = "R Packages"
+  tag = ".r-packages"
 
 [[filter]]
-  name = "resampledata"
-  tag = ".resampledata"
+  name = "Forest Ecology"
+  tag = ".forest-ecology"
   
 +++
 

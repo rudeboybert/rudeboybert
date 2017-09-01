@@ -13,7 +13,7 @@ image_preview = "538.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["fivethirtyeight"]
+tags = ["r-packages"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Fivethirtyeight</title>
-      <link>/tags/fivethirtyeight/</link>
-      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/fivethirtyeight/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Moderndive</title>
       <link>/tags/moderndive/</link>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
@@ -39,11 +30,11 @@
     </item>
     
     <item>
-      <title>Resampledata</title>
-      <link>/tags/resampledata/</link>
+      <title>R Packages</title>
+      <link>/tags/r-packages/</link>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/resampledata/</guid>
+      <guid>/tags/r-packages/</guid>
       <description></description>
     </item>
     
