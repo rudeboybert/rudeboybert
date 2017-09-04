@@ -23,7 +23,9 @@ math = false
 
 +++
 
-1. The following image above the executive summary of the project {{< figure src="/img/forest_ecology.png" >}}
+{{< figure src="/img/forest_ecology.png" >}}
+
+1. The above image is the executive summary of the project 
 1. [Slides](http://rpubs.com/rudeboybert/Tree) giving bird's eye view of project
 1. Two directions:
     + Bayesian hierarchical modeling
