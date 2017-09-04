@@ -13,7 +13,7 @@ weight = 1
 [interests]
   interests = [
     "Forest Ecology",
-    "Statistics, Data Science, and Machine Learning Pedagogy",
+    "Statistics and Data Science Pedagogy",
     "Spatial Epidemiology"
   ]
 

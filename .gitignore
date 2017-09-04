@@ -11,4 +11,4 @@ _site
 .DS_Store
 */.DS_Store
 blogdown
-public/ # if using Netlify
+public/
