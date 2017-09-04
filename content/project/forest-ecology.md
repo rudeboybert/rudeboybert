@@ -23,4 +23,10 @@ math = false
 
 +++
 
-* []()
+1. The following image above the executive summary of the project {{< figure src="/img/forest_ecology.png" >}}
+1. [Slides](http://rpubs.com/rudeboybert/Tree) giving bird's eye view of project
+1. Two directions:
+    + Bayesian hierarchical modeling
+    + Out-of-sample prediciton in the presense of [spatial autocorrelation](https://twitter.com/rudeboybert/status/895777781514084353)
+1. [GitHub](https://github.com/rudeboybert/TreeCompetition) repo
+  
