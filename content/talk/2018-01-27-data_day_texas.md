@@ -15,6 +15,9 @@ url_slides = ""
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
+[header]
+image = "data_day_texas.jpg"
+caption = "My caption :smile:"
 
 +++
 
