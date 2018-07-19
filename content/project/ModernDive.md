@@ -28,4 +28,4 @@ image = "headers/wide_format.jpg"
 
 +++
 
-<http://moderndive.com/>
+<https://moderndive.com/>
