@@ -33,8 +33,5 @@ weight = 1
 
 # Biography
 
-Albert Y. Kim is a Lecturer in Statistics in the Mathematics & Statistics Department at Amherst College in Amherst, MA. Prior to joining Amherst College, he was a Decision Support Engineering Analyst in the AdWords division of Google Inc, a Visiting Assistant Professor of Statistics at Reed College, and an Assistant Professor of Statistics at Middlebury College.
+Albert Y. Kim is Assistant Professor of Statistical & Data Sciences at Smith College in Northampton MA. He is a co-author of the [fivethirtyeight](https://fivethirtyeight-r.netlify.com/) R package and [ModernDive](https://moderndive.com/), an online textbook for introductory data science and statistics, as well as the instructor for DataCamp's [Modeling with Data in the Tidyverse](https://www.datacamp.com/courses/modeling-with-data-in-the-tidyverse) course. His research interests include spatial epidemiology and model assessment and selection methods for forest ecology. Previously he worked on the Search Ads Metrics Team at Google as well as at Reed, Middlebury, and Amherst Colleges. 
 
-<!--
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
--->

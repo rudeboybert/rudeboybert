@@ -1,6 +1,6 @@
 baseurl = "http://rudeboybert.rbind.io/"  # End your URL with a `/` trailing slash. baseurl = "/"
 title = "Albert Y. Kim"
-copyright = "&copy; 2017 Albert Y. Kim"
+copyright = "&copy; 2019 Albert Y. Kim"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -24,21 +24,21 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   name = "Albert Y. Kim"
   role = "Data Scientist and Statistician"
-  organization = "Amherst College"
-  organization_url = "https://www.amherst.edu/academiclife/departments/mathematics-statistics/"
+  organization = "Smith College"
+  organization_url = "https://www.smith.edu/sds/about.php"
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   # avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "albert.ys.kim@gmail.com"
-  address = "Office: 316 Converse Hall. Mailing: 202 Seeley Mudd Building, Amherst College, 31 Quadrangle, Amherst, MA, 01002, USA"
+  address = "Office: McConnell Hall 215, Smith College, 2 Tyler Drive, Northampton MA, 01063-6316"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # skype = "rudeboybert"
-  phone = "+1.413.542.5859 (no voicemails please, emails preferred)"
+  # phone = "+1.413.585.3758 (no voicemails please, emails preferred)"
   telegram = ""
   twitter = "rudeboybert"
   github = "rudeboybert"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
-  keybase = ""
+  keybase = "rudeboybert"
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
