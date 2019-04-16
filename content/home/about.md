@@ -33,5 +33,5 @@ weight = 1
 
 # Biography
 
-Albert Y. Kim is Assistant Professor of Statistical & Data Sciences at Smith College in Northampton MA. He is a co-author of the [fivethirtyeight](https://fivethirtyeight-r.netlify.com/) R package and [ModernDive](https://moderndive.com/), an online textbook for introductory data science and statistics, as well as the instructor for DataCamp's [Modeling with Data in the Tidyverse](https://www.datacamp.com/courses/modeling-with-data-in-the-tidyverse) course. His research interests include spatial epidemiology and model assessment and selection methods for forest ecology. Previously he worked on the Search Ads Metrics Team at Google as well as at Reed, Middlebury, and Amherst Colleges. 
+Albert Y. Kim is Assistant Professor of Statistical & Data Sciences at Smith College in Northampton MA. He is a co-author of the [fivethirtyeight](https://fivethirtyeight-r.netlify.com/) R package and [ModernDive](https://moderndive.com/) an online textbook for introductory data science and statistics. His research interests include spatial epidemiology and model assessment and selection methods for forest ecology. Previously he worked on the Search Ads Metrics Team at Google as well as at Reed, Middlebury, and Amherst Colleges. 
 
