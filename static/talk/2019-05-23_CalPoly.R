@@ -12,38 +12,12 @@ bowl %>%
   rep_sample_n(size = 50, replace = FALSE, reps = 1)
 
 
-
-
-
-
-
-
-
-
-
-
-
 # Chapter 9: "Virtual" resampling from a sample of 50 pennies
 # Sample:
 pennies_sample_2
 # Resample from sample:
 pennies_sample_2 %>% 
   rep_sample_n(size = 50, replace = TRUE, reps = 1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Chapter 10: Constructing a null distribution from scratch
