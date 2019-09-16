@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rudeboybert
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rudeboybert.rbind.io
+  * I am rudeboybert (https://keybase.io/rudeboybert) on keybase.
+  * I have a public key with fingerprint 9BC5 364D 4EF2 6E73 F2BF  09A8 00F8 04CC B263 7D03
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ab5a57f0f6aa12f6a9697ca53dc2582498838555e7a78d25e8df5d0881fe28f30a",
+      "fingerprint": "9bc5364d4ef26e73f2bf09a800f804ccb2637d03",
+      "host": "keybase.io",
+      "key_id": "00f804ccb2637d03",
+      "kid": "0101ab5a57f0f6aa12f6a9697ca53dc2582498838555e7a78d25e8df5d0881fe28f30a",
+      "uid": "3de48b1985121d1a980c5e29a92d1919",
+      "username": "rudeboybert"
+    },
+    "service": {
+      "hostname": "rudeboybert.rbind.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568642465,
+  "expire_in": 157680000,
+  "prev": "8c62451c34145c7b152960a5de049b8d0825bb37319a31d3066d333eac7c7787",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJbSBVBGD5mpWmFCRHkg7CBUIjM7Ozszh56KYOI6qWHTDKOszuznkU9
+e9yzRzual4ouJEQ3LTCTblJB4kNFaRcLg24YGokUWmFldqOHSCmkZrOeeu1lhpn5
+vm++7+PvnZccSEvq6hnbc2aQTCU9vH06HthS33SyRjIclpCCNVIp/73xMsZjXqjU
+ZlJQAhBAamCKNQtYKqVQFquu6ppJMWKmjIms6IQggjHmGtUIkzEnzMIMEAItLhML
+ASrlSpYdKeFu1LUjnpDVDRMjVWEKt2SVa8iSDQvolABgEaCYpiGrSGMACWLYifkM
+Yc6gMZ5nO+JOHELT9v7F/2ff8d9yiHGFGFAnGMqQQaoTYGIu61SXGdSh7gNj3I3Q
+ci7Qbpxxw0kY3PWk2lxJPFTaJve79cP8C8pzDTvCpqNFXcdzTKdMIMKeF40FfQUv
+EfUpVdwI/REL+QxRqWBUcjdmOxEpCAXS9GxfHWKVqIqsqDhX4lujtstDto/Amio6
+BsD/h1cKSWKqsoKhiRSoYFMzIJZ1FVDMOFB0g4g2ZGwYSENQpwgyBFSVIYQ4NTVT
+04gm+fEqIo4UlDXhk5YIzZhdEqFe3OVS7Z2eopmBpLTA7Fkz/FkLpM3J+DuBPf2p
+gfPjR58PdrJjJfvi/dmH0pbljwydaA9lL323fH/zqtaNo4/eNPZNbvvW9rlbeXJx
+YFNh8/GlKcMTY5HUn5d2DxzsH86qqP4xdOHa28sFfa+rarpuTi7AH6bKF/O6+ddH
+yr+2tDZ1jXe0gamzAzfo+oWZZ8bT3YJTqwvtWUdqH5T1ln74nrf5adu8Rfde9ie8
+BkQSu1o7Goo2hLM2z23ovZ2cNZR5cWrw1Yud0sfO1HpDPzeWUXxlhzM/Z+Lx9qZP
+K9vH3w9cXpeTXp10oGUifPVwflPOkor8lAcNq6B2ZLRjsqrr2YkRbfndNal1F+4f
+XHHtVuZaEh76sbd7vV3cKH25npOiLvgFB/xRcA==
+=Fp2t
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rudeboybert
+
+==================================================================
