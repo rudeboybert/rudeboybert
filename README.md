@@ -7,4 +7,3 @@ Available at <http://rudeboybert.rbind.io/>.
 * I use a different domain name than the one provided by Netlify. I opted for a free [`rbind.io`](https://support.rbind.io/) subdomain offered by RStudio. Note this involved filing a GitHub [issue](https://github.com/rbind/support/issues/69).
 
 The above is based on Alison Presmanes Hill's  [tutorial](https://apreshill.rbind.io/post/up-and-running-with-blogdown/); take a look to get up and running quick.
-
