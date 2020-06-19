@@ -51,17 +51,27 @@ id <- "treeID"
 
 
 set.seed(76)
-census_df1 %>% 
+bw <- census_df1 %>% 
   select(treeID, dbh08 = dbh, trait_group, family, latin) %>% 
   left_join(census_df2, by = "treeID") %>% 
   rename(dbh14 = dbh) %>% 
   mutate(avg_growth = (dbh14 - dbh08)/6) %>% 
-  unite("pos", gx:gy, remove = FALSE, sep = ", ") %>% 
-  mutate(pos = str_c("(", pos, ")")) %>% 
-  select(treeID, sp, latin, family, trait_group, dbh08, dbh14, avg_growth, pos) %>% 
+  unite("coord", gx:gy, remove = FALSE, sep = ", ") %>% 
+  mutate(coord = str_c("(", coord, ")")) %>% 
+  select(treeID, sp, latin, family, trait_group, dbh08, dbh14, avg_growth, coord) %>% 
   arrange(treeID) %>% 
   na.omit() %>% 
-  sample_n(6)
+  sample_n(6) %>% 
+  mutate(treeID = 1:n())
+
+bw
+
+bw %>% 
+  select(-c(latin, family, trait_group))
+
+bw %>% 
+  select(-c(latin, family, trait_group)) %>% 
+  sample_frac(1)
 
 
 
