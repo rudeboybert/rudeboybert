@@ -6,7 +6,7 @@ date = "2017-08-31"
 title = "ModernDive"
 
 # Project summary to display on homepage.
-summary = "An Introduction to Statistical and Data Sciences via R"
+summary = "Statistical Inference via Data Science: A ModernDive into R and the Tidyverse"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "hex_blue_text.jpg"
